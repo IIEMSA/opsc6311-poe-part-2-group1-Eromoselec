@@ -16,6 +16,10 @@ OR
 
 ## GitHub Repository:
 
+[https://github.com/IIEMSA/opsc6311-poe-part-2-group1-Eromoselec.git]
+
+OR
+
 [https://github.com/KgaladiTumisoSekgoka/TeamCollaboration-Vaultwise]
 
 ---
